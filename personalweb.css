@@ -1,0 +1,92 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins' ;
+}
+.h1-color{
+    color:#EC4C7A;
+    font-size:35px;
+}
+p{
+    color:dimgray;
+}
+.half-width{
+    width:42%;
+    float:left;
+    padding-left:20px;
+    margin-left:70px;
+
+}
+.half-width img {
+    width:100%;
+    margin-left:40px;
+    margin-top: -30px;
+
+    
+}
+.first-section{
+    background-image: url("images/header-bg.png");
+}
+section{
+    height:600px;
+}
+a{
+    color:white;
+    background-color:#EC4E8C;
+    border-radius:10px;
+    padding:20px 50px;
+    text-decoration: none;
+    font-size: 18px;
+    transition-duration: 400ms;
+}
+a:hover{
+    color:rgb(179, 191, 219);
+    background-color:rgb(0, 119, 255);
+    border-radius:10px;
+    font-size: 20px;
+    
+}
+#aktu-niche{
+    margin-top:80px ;
+}
+.second-section{
+    background-image: url("images/biography-bg.png");
+}
+.three-work img{
+    float:left;
+    width:27%;
+    padding-left:30px;
+    margin-left: 35px;
+    margin-top:70px;
+}
+.third-section{
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+}
+#my{
+    text-align:center;
+    margin-top:70px;
+}
+.footer{
+    background-image: url("images/footer-bg.png");
+    text-align: center;
+}
+#special{
+    background-color: #EC4E8C;
+    padding:40px 60px;
+    border-radius: 10px;
+}
+span{
+    color:white;
+    background-color:#EC4E8C;
+    border-radius:10px;
+    padding:20px 50px;
+    font-size: 18px;
+    
+}
+#finish{
+    background-color: #EC4E8C;
+    color:white;
+    padding:30px 60px;
+    border-radius:5px;
+}
